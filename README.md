@@ -1,2 +1,2 @@
 # Real-time-bus-tracker
-Animation of the bus stops between MIT and Harvard
+This map shows a tracker from MIT to Harvard campus with animated bus stops inbetween. 
